@@ -20,7 +20,7 @@
   "dependencies": {
     "cheerio": "1.0.0-rc.2",
     "encoding": "^0.1.12",
-    "lodash": "4.17.14",
+    "lodash": "4.17.20",
     "node-fetch": "2.6.0"
   },
   "devDependencies": {
